@@ -8,7 +8,7 @@ let left = 0;
 
 let right = arr.length - 1;
 
-while(left <= right) {
+while(left < right) {
     const sum = arr[left] + arr[right]
     if(sum === x) {
         result = [left, right]
