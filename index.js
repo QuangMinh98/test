@@ -1,6 +1,6 @@
 const arr = [2, 5, 8, 10];
 
-const x = 15
+const x = 15;
 
 let result = [];
 
